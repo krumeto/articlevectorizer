@@ -1,5 +1,5 @@
-from articlevectorizer.preprocess.columngrabber import ColumnGrabber
-from articlevectorizer.preprocess.stringcutter import StringCutter
+from articlevectorizer.preprocess import ColumnGrabber
+from articlevectorizer.preprocess import StringCutter
 from sklearn.pipeline import make_pipeline
 import pandas as pd
 

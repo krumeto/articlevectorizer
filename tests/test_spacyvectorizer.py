@@ -1,6 +1,4 @@
-from articlevectorizer.vectorize.spacyvectorizer import (
-    SpacyVectorizer
-)
+from articlevectorizer.vectorize import SpacyVectorizer
 import pytest
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity

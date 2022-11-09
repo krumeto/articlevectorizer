@@ -1,6 +1,4 @@
-from articlevectorizer.vectorize.sentencetransformer import (
-    SentenceTransformerVectorizer,
-)
+from articlevectorizer.vectorize import SentenceTransformerVectorizer
 import pytest
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity

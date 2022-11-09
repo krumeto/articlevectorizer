@@ -1,0 +1,3 @@
+from articlevectorizer.vectorize.doc2vecvectorizer import Doc2VecVectorizer
+from articlevectorizer.vectorize.sentencetransformer import SentenceTransformerVectorizer
+from articlevectorizer.vectorize.spacyvectorizer import SpacyVectorizer

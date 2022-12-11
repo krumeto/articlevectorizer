@@ -3,3 +3,5 @@ A repo to host scikit-learn APIs of long-ish text vectorisation algorithms. Curr
 
 This package is intended to be a demo of how one can create a scikit-learn API wrapper. 
 For a more mature similar project, check (embetter)[https://github.com/koaning/embetter] by Vincent Warmerdam.
+
+The package can be installed via `pip install git+https://github.com/krumeto/articlevectorizer`.
